@@ -32,13 +32,13 @@ Estructura de carpetas esperada:
 Ejecuta los siguientes comandos en tu terminal dentro de tu `carpeta/raiz`
 ```
 # 1. API Gateway
-git clone [https://github.com/DevJorgeRafael/api-gateway-users-microservicio-pt.git](https://github.com/DevJorgeRafael/api-gateway-users-microservicio-pt.git)
+git clone https://github.com/DevJorgeRafael/api-gateway-users-microservicio-pt.git
 
 # 2. Microservicio de Usuarios (DDD/CQRS)
-git clone [https://github.com/DevJorgeRafael/users-microservicio-pt.git](https://github.com/DevJorgeRafael/users-microservicio-pt.git)
+git clone https://github.com/DevJorgeRafael/users-microservicio-pt.git
 
 # 3. Aplicación Móvil
-git clone [https://github.com/DevJorgeRafael/users-mobile-app-pt.git](https://github.com/DevJorgeRafael/users-mobile-app-pt.git)
+git clone https://github.com/DevJorgeRafael/users-mobile-app-pt.git
 ```
 
 ### 3. Levantar infraestructura (Base de Datos & Kafka)
