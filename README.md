@@ -2,6 +2,8 @@
 
 Este repositorio contiene la configuración de infraestructura (Docker) y las instrucciones para desplegar la solución completa de la prueba técnica. La solución implementa una arquitectura de microservicios basada en eventos con NestJS, Kafka, DDD, CQRS y una aplicación móvil en React Native.
 
+![Arquitectura del Sistema](./arquitectura-general.png)
+
 ## 📋 Prerrequisitos
 
 * **Docker** y **Docker Compose**.
